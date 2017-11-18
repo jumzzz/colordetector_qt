@@ -1,2 +1,2 @@
 # colordetector_qt
-An OpenCV and Qt Based Color detector of images
+An OpenCV and Qt Based Color detector of images (under development)
